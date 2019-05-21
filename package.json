@@ -1,6 +1,10 @@
 {
   "name": "express-locallibrary-poc",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.15.3"
+  },
+  "private": true,
   "description": "A proof-of-concept Node.js web app using Express web dev framework.",
   "main": "app.js",
   "scripts": {
